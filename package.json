@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-fberthelot",
+  "version": "0.0.1",
+  "description": "FBerthelot personal eslint configuration",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "fberthelot"
+  ],
+  "author": "FBerthelot",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/FBerthelot/eslint-config"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "peerDependencie": {
+    "eslint": ">= 3"
+  }
+}
