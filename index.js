@@ -181,7 +181,7 @@ module.exports = {
     'one-var-declaration-per-line': 0,
     'one-var': [2, 'never'],
     'operator-assignment': [1, 'always'],
-    'operator-linebreak': [2, 'before', {overrides: {=: 'none'}}],
+    'operator-linebreak': [2, 'before', {overrides: {'=': 'none'}}],
     'padded-blocks': [2, 'never'],
     'quote-props': [2, 'as-needed'],
     quotes: [2, 'single'],
